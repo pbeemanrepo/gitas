@@ -8,6 +8,10 @@
       <Name>SampleReport1.rdl</Name>
       <FullPath>SampleReport1.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>SampleReport2.rdl</Name>
+      <FullPath>SampleReport2.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
