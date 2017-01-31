@@ -16,6 +16,10 @@
       <Name>Report3.rdl</Name>
       <FullPath>Report3.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>RandD.rdl</Name>
+      <FullPath>RandD.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
