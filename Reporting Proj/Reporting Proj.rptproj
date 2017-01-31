@@ -20,6 +20,10 @@
       <Name>SampleReport2.rdl</Name>
       <FullPath>SampleReport2.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Report_test.rdl</Name>
+      <FullPath>Report_test.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
