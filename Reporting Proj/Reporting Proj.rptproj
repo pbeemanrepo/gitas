@@ -5,6 +5,14 @@
   <DataSets />
   <Reports>
     <ProjectItem>
+      <Name>RandD.rdl</Name>
+      <FullPath>RandD.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Report3.rdl</Name>
+      <FullPath>Report3.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>SampleReport1.rdl</Name>
       <FullPath>SampleReport1.rdl</FullPath>
     </ProjectItem>
@@ -13,12 +21,8 @@
       <FullPath>SampleReport2.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Report3.rdl</Name>
-      <FullPath>Report3.rdl</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>RandD.rdl</Name>
-      <FullPath>RandD.rdl</FullPath>
+      <Name>Report_zuzu.rdl</Name>
+      <FullPath>Report_zuzu.rdl</FullPath>
     </ProjectItem>
   </Reports>
   <Configurations>
